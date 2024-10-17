@@ -24,8 +24,8 @@ Append `dependency` to your project dependencies.
 ```xml
 <dependency>
     <groupId>ai.latta</groupId>
-    <artifactId>spring</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>latta-spring-recorder</artifactId>
+    <version>1.0</version>
     <scope>compile</scope>
 </dependency>
 ```
@@ -35,7 +35,7 @@ Append `dependency` to your project dependencies.
 File: *build.gradle*
 
 ```groovy
-implementation 'ai.latta:spring:1.0-SNAPSHOT'
+implementation 'ai.latta:latta-spring-recorder:1.0'
 ```
 
 **kotlin (gradle)**
@@ -43,7 +43,7 @@ implementation 'ai.latta:spring:1.0-SNAPSHOT'
 File: *build.gradle.kts*
 
 ```kotlin
-implementation("ai.latta:spring:1.0-SNAPSHOT")
+implementation("ai.latta:latta-spring-recorder:1.0")
 ```
 
 ## Usage

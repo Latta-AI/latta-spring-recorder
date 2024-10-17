@@ -44,4 +44,7 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
+    <scm>
+        <url>https://github.com/Latta-AI/latta-spring-recorder/tree/main/libs/spring</url>
+    </scm>
 </project>

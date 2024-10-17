@@ -87,4 +87,7 @@
             <email>info@latta.ai</email>
         </developer>
     </developers>
+    <scm>
+        <url>https://github.com/Latta-AI/latta-spring-recorder</url>
+    </scm>
 </project>
